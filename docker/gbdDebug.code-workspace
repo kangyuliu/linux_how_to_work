@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../gbdDebug"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../leveldb"
+		}
+	],
+	"settings": {}
+}
