@@ -13,3 +13,4 @@ RUN apt-get -y install python3-pip
 RUN apt-get -y install build-essential libssl-dev libffi-dev python-dev
 RUN apt-get -y install sysstat
 RUN apt-get -y install strace
+RUN apt-get -y install sudo 
